@@ -49,14 +49,16 @@ Dify 对话前端：流式响应、多会话管理、文件上传、Markdown 和
 
 ## Exploration lab
 
-以下仓库已发布设计蓝图与路线图，代码实现尚未开始。
+以下四个仓库已有可运行的入门 Demo、运行说明与来源标注。视觉、训练和图文项目附实际运行输出。
 
-| Direction | Project | Planned focus |
+| Direction | Project | Runnable demo |
 |---|---|---|
-| 🎮 Game development | [Vision Game Lab](https://github.com/foxviot/vision-game-lab) | 手势识别 × 游戏交互 |
-| 👁 Computer vision | [Vision Workbench](https://github.com/foxviot/vision-workbench) | 检测、追踪与 ONNX 部署 |
-| 🧠 Model training | [Fine-tune Lab](https://github.com/foxviot/finetune-lab) | LoRA 微调、数据治理与评估 |
-| 🎨 Image & text | [Multimodal Workflow](https://github.com/foxviot/multimodal-workflow) | 图文理解、提示词规划与生成 |
+| 🎮 Game development | [Vision Game Lab](https://github.com/foxviot/vision-game-lab) | Canvas 躲避游戏 · 键盘/鼠标控制 |
+| 👁 Computer vision | [Vision Workbench](https://github.com/foxviot/vision-workbench) | OpenCV 边缘与轮廓区域分析 |
+| 🧠 Model training | [Fine-tune Lab](https://github.com/foxviot/finetune-lab) | SVM 手写数字训练 · 留出测试准确率 98% |
+| 🎨 Image & text | [Multimodal Workflow](https://github.com/foxviot/multimodal-workflow) | 图片主色提取 + 文字 → 离线 HTML 报告 |
+
+训练结果：sklearn 内置 digits 数据集，固定种子 42，测试集 450 张；详见项目报告。
 
 ## How I approach projects
 
