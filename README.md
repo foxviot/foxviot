@@ -1,44 +1,73 @@
-# Hi, I'm foxviot 👋
+<div align="center">
 
-I build practical AI systems that connect **research workflows, evidence, and usable interfaces**.
+# foxviot
 
-## Current focus
+### Research workflows. Visual intelligence. Interactive experiences.
 
-- Agent workflows for biomedical research and target discovery
-- Evidence traceability, dataset quality control, and reproducible analysis
-- AI application interfaces with streaming responses and file workflows
-- Computer vision, model training, and multimodal prototypes
+用 AI 连接研究、视觉与交互。
 
-## Featured projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dify](https://img.shields.io/badge/Dify-155EEF?style=flat-square)
 
-### [TargetCompass](https://github.com/foxviot/targetcompass)
+[Research Agent](https://github.com/foxviot/targetcompass) · [AI Chat](https://github.com/foxviot/dify-robots) · [Explore repositories](https://github.com/foxviot?tab=repositories)
 
-Local-first biomedical research agent platform. It turns a natural-language research question into a traceable workflow covering resource discovery, dataset auditing, analysis planning, QC, evidence retrieval, candidate scoring, review gates, and report export.
+</div>
 
-**Python · R · PowerShell · Agent workflow · Evidence DB · QC · Report generation**
+---
 
-### [Dify Robots](https://github.com/foxviot/dify-robots)
+## Selected work
 
-React frontend for a Dify Chat application with streaming responses, multi-session history, file uploads, Markdown rendering, stop/regenerate controls, responsive layout, and theme switching.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**React 18 · Vite · Tailwind CSS · SSE · Dify API**
+### 🧬 TargetCompass
 
-## Roadmap
+**From research questions to traceable evidence.**
 
-- [ ] Add a reproducible benchmark and example output to TargetCompass
-- [ ] Add screenshots or a short demo GIF to both repositories
-- [ ] Build a computer-vision prototype with measurable latency and accuracy
-- [ ] Publish a small model-training project with dataset, evaluation, and export steps
-- [ ] Connect image understanding and generation into a documented workflow
+本地生信 Agent 平台原型：数据审计、分析计划、证据追溯、质量控制与报告导出。
 
-## Engineering principles
+`Python` `R` `Agent workflows` `Evidence DB`
 
-- Every automated result should have a traceable input and artifact
-- A demo should include a reproducible local setup
-- Metrics, limitations, and data licenses belong in the README
+[Explore project →](https://github.com/foxviot/targetcompass)
 
-## Tech stack
+</td>
+<td width="50%" valign="top">
 
-Python · JavaScript · React · PowerShell · R · PyTorch · OpenCV · Dify · Agents
+### 💬 Dify Robots
 
-<!-- Featured projects are pinned on the profile. -->
+**A focused interface for AI conversations.**
+
+Dify 对话前端：流式响应、多会话管理、文件上传、Markdown 和深浅主题。
+
+`React` `Vite` `Tailwind CSS` `SSE`
+
+[Explore project →](https://github.com/foxviot/dify-robots) · [Website](https://dify-robots.vercel.app)
+
+</td>
+</tr>
+</table>
+
+## Exploration lab
+
+以下仓库已发布设计蓝图与路线图，代码实现尚未开始。
+
+| Direction | Project | Planned focus |
+|---|---|---|
+| 🎮 Game development | [Vision Game Lab](https://github.com/foxviot/vision-game-lab) | 手势识别 × 游戏交互 |
+| 👁 Computer vision | [Vision Workbench](https://github.com/foxviot/vision-workbench) | 检测、追踪与 ONNX 部署 |
+| 🧠 Model training | [Fine-tune Lab](https://github.com/foxviot/finetune-lab) | LoRA 微调、数据治理与评估 |
+| 🎨 Image & text | [Multimodal Workflow](https://github.com/foxviot/multimodal-workflow) | 图文理解、提示词规划与生成 |
+
+## How I approach projects
+
+**Traceable inputs → inspectable workflows → useful interfaces.**
+
+关注可追溯的数据与中间结果，也关注最终交互体验。当前作品以科研工作流和 AI 前端为主，继续探索视觉、训练与游戏交互。
+
+---
+
+<div align="center">
+
+**Build clearly. Show the work. Keep exploring.**
+
+</div>
